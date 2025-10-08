@@ -1,0 +1,15 @@
+Z# Programming Language – Proprietary License  
+Copyright (c) 2025 Bardia Amjadi  
+Email: bardia.amjadi88@gmail.com  
+All rights reserved.
+
+This software and all its components, including source code, binaries, documentation, and related materials, are the intellectual property of Bardia Amjadi.
+
+Permission is hereby granted to view and evaluate the source code for educational or personal learning purposes only.  
+Any form of modification, reproduction, distribution, sublicensing, or commercial use of this software, in whole or in part, is strictly prohibited without explicit written permission from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+To request commercial licensing, partnership, or redistribution rights, please contact:
+📧 bardia.amjadi88@gmail.com
